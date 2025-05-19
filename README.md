@@ -1,4 +1,3 @@
-# Data_analysis_for_online_store
 # Sales Data Cleaning and Analysis in Google Colab
 
 This project focuses on preprocessing and exploratory analysis of three datasets: `countries.csv`, `events.csv`, and `products.csv`.
